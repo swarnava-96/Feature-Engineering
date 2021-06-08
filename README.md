@@ -1,7 +1,5 @@
 # Feature-Engineering
 
-Credits-- KRISH NAIK
-
 ## DATASETS:
 1. https://www.kaggle.com/mlg-ulb/creditcardfraud
 2. https://www.kaggle.com/c/mercedes-benz-greener-manufacturing/data
