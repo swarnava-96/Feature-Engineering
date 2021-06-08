@@ -1,5 +1,13 @@
 # Feature-Engineering
 
+## TOPICS:
+1. Handling Missing Values
+2. Handling Categorical Features
+3. Feature Transformation
+4. Handling Imbalanced Datasets
+5. Handling Outliers
+6. Forecasting using Facebook Prophet
+
 ## DATASETS:
 1. https://www.kaggle.com/mlg-ulb/creditcardfraud
 2. https://www.kaggle.com/c/mercedes-benz-greener-manufacturing/data
