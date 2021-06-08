@@ -6,7 +6,6 @@
 3. Feature Transformation
 4. Handling Imbalanced Datasets
 5. Handling Outliers
-6. Forecasting using Facebook Prophet
 
 ## DATASETS:
 1. https://www.kaggle.com/mlg-ulb/creditcardfraud
