@@ -1,7 +1,7 @@
 # Feature-Engineering
 
 TOPICS:
-Handling Missing Values
+## Handling Missing Values
 ```
 1. Mean/Median/Mode replacement
 2. Random Sample Imputation
@@ -12,7 +12,7 @@ Handling Missing Values
 7. Adding a variable to capture NaN
 8. Replace NaN with a new category
 ```
-Handling Categorical Features
+## Handling Categorical Features
 ```
 1. One Hot Encoding
 2. One Hot Encoding with many features
@@ -22,9 +22,9 @@ Handling Categorical Features
 6. Mean Encoding
 7. Probability Ration Encoding
 ```
- Feature Transformation
- Handling Imbalanced Datasets
- Handling Outliers
+ ## Feature Transformation
+ ## Handling Imbalanced Datasets
+ ## Handling Outliers
 
 ## DATASETS:
 1. https://www.kaggle.com/mlg-ulb/creditcardfraud
