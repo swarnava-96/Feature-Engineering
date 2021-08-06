@@ -1,7 +1,7 @@
 # Feature-Engineering
 
 TOPICS:
-## Handling Missing Values
+## Missing Values
 ```
 1. Mean/Median/Mode replacement
 2. Random Sample Imputation
@@ -12,7 +12,7 @@ TOPICS:
 7. Adding a variable to capture NaN
 8. Replace NaN with a new category
 ```
-## Handling Categorical Features
+## Categorical Features
 ```
 1. One Hot Encoding
 2. One Hot Encoding with many features
