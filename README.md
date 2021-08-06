@@ -17,7 +17,7 @@ TOPICS:
 1. One Hot Encoding
 2. One Hot Encoding with many features
 3. Ordinal Number Encoding
-4. Count or Erequency Encoding 
+4. Count or Frequency Encoding 
 5. Target Guided Ordinal Encoding
 6. Mean Encoding
 7. Probability Ratio Encoding
