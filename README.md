@@ -20,7 +20,7 @@ TOPICS:
 4. Count or Erequency Encoding 
 5. Target Guided Ordinal Encoding
 6. Mean Encoding
-7. Probability Ration Encoding
+7. Probability Ratio Encoding
 ```
  ## Feature Transformation
  ## Handling Imbalanced Datasets
