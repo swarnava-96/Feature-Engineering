@@ -34,7 +34,13 @@ TOPICS:
    d. Exponential Trnasformation
    e. Box Cox Transformation
 ```
- ## Handling Imbalanced Datasets
+ ## Handling Imbalanced Dataset
+ ```
+1. Under Sampling
+2. Over Sampling
+3. SMOTETomek
+4. Ensemble Techniques
+```
  ## Handling Outliers
 
 ## DATASETS:
