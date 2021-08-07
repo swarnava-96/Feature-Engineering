@@ -23,6 +23,17 @@ TOPICS:
 7. Probability Ratio Encoding
 ```
  ## Feature Transformation
+ ```
+1. Standardization
+2. Normalization
+3. Scaling To Median And Quantiles
+4. Guassian Transformation -----
+   a. Logarithmic Transformation
+   b. Reciprocal Trnasformation
+   c. Square Root Transformation
+   d. Exponential Trnasformation
+   e. Box Cox Transformation
+```
  ## Handling Imbalanced Datasets
  ## Handling Outliers
 
