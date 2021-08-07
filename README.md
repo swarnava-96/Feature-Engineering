@@ -26,7 +26,7 @@ TOPICS:
  ```
 1. Standardization
 2. Normalization
-3. Scaling To Median And Quantiles
+3. Robust Scaler
 4. Guassian Transformation -----
    a. Logarithmic Transformation
    b. Reciprocal Trnasformation
