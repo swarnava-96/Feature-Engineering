@@ -42,6 +42,10 @@ TOPICS:
 4. Ensemble Techniques
 ```
  ## Handling Outliers
+ ```
+ 1. If The Data Is Normally Distributed
+ 2. 
+ ```
 
 ## DATASETS:
 1. https://www.kaggle.com/mlg-ulb/creditcardfraud
