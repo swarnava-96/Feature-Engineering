@@ -41,6 +41,11 @@ TOPICS:
 3. SMOTETomek
 4. Ensemble Techniques
 ```
+## Outliers Intro
+```
+1. Detecting outlier using Z score
+2. 
+```
  ## Handling Outliers
  ```
  1. If The Data Is Normally Distributed
