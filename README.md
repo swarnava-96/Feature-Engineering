@@ -44,7 +44,7 @@ TOPICS:
  ## Handling Outliers
  ```
  1. If The Data Is Normally Distributed
- 2. 
+ 2. If Features Are Skewed
  ```
 
 ## DATASETS:
