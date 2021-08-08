@@ -44,7 +44,7 @@ TOPICS:
 ## Outliers Intro
 ```
 1. Detecting outlier using Z score
-2. 
+2. Inter Quantile Range
 ```
  ## Handling Outliers
  ```
